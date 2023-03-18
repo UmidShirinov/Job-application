@@ -97,3 +97,15 @@ C:\Users\sirin\OneDrive\Desktop\ECommerce\JobApplication\JobApplication.Unit.Tes
 C:\Users\sirin\OneDrive\Desktop\ECommerce\JobApplication\JobApplication.Unit.Test\obj\Debug\net6.0\JobApplication.Unit.Test.pdb
 C:\Users\sirin\OneDrive\Desktop\ECommerce\JobApplication\JobApplication.Unit.Test\obj\Debug\net6.0\JobApplication.Unit.Test.genruntimeconfig.cache
 C:\Users\sirin\OneDrive\Desktop\ECommerce\JobApplication\JobApplication.Unit.Test\obj\Debug\net6.0\ref\JobApplication.Unit.Test.dll
+C:\Users\sirin\OneDrive\Desktop\ECommerce\JobApplication\JobApplication.Unit.Test\bin\Debug\net6.0\CoverletSourceRootsMapping
+C:\Users\sirin\OneDrive\Desktop\ECommerce\JobApplication\JobApplication.Unit.Test\bin\Debug\net6.0\JobApplication.deps.json
+C:\Users\sirin\OneDrive\Desktop\ECommerce\JobApplication\JobApplication.Unit.Test\bin\Debug\net6.0\JobApplication.runtimeconfig.json
+C:\Users\sirin\OneDrive\Desktop\ECommerce\JobApplication\JobApplication.Unit.Test\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\sirin\OneDrive\Desktop\ECommerce\JobApplication\JobApplication.Unit.Test\bin\Debug\net6.0\appsettings.json
+C:\Users\sirin\OneDrive\Desktop\ECommerce\JobApplication\JobApplication.Unit.Test\bin\Debug\net6.0\JobApplication.exe
+C:\Users\sirin\OneDrive\Desktop\ECommerce\JobApplication\JobApplication.Unit.Test\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\sirin\OneDrive\Desktop\ECommerce\JobApplication\JobApplication.Unit.Test\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\sirin\OneDrive\Desktop\ECommerce\JobApplication\JobApplication.Unit.Test\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\sirin\OneDrive\Desktop\ECommerce\JobApplication\JobApplication.Unit.Test\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\sirin\OneDrive\Desktop\ECommerce\JobApplication\JobApplication.Unit.Test\bin\Debug\net6.0\JobApplication.dll
+C:\Users\sirin\OneDrive\Desktop\ECommerce\JobApplication\JobApplication.Unit.Test\bin\Debug\net6.0\JobApplication.pdb
