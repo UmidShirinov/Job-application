@@ -109,3 +109,5 @@ C:\Users\sirin\OneDrive\Desktop\ECommerce\JobApplication\JobApplication.Unit.Tes
 C:\Users\sirin\OneDrive\Desktop\ECommerce\JobApplication\JobApplication.Unit.Test\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
 C:\Users\sirin\OneDrive\Desktop\ECommerce\JobApplication\JobApplication.Unit.Test\bin\Debug\net6.0\JobApplication.dll
 C:\Users\sirin\OneDrive\Desktop\ECommerce\JobApplication\JobApplication.Unit.Test\bin\Debug\net6.0\JobApplication.pdb
+C:\Users\sirin\OneDrive\Desktop\ECommerce\JobApplication\JobApplication.Unit.Test\bin\Debug\net6.0\Castle.Core.dll
+C:\Users\sirin\OneDrive\Desktop\ECommerce\JobApplication\JobApplication.Unit.Test\bin\Debug\net6.0\Moq.dll
